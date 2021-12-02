@@ -347,7 +347,6 @@ h3 {
   margin-bottom: var(--mb-4);
 }
 .contact__button {
-  display: block;
   border: none;
   outline: none;
   font-size: var(--normal-font-size);
